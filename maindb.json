@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "username": "tungnt",
+    "password": "4a8a08f09d37b73795649038408b5f33",
+    "loginToken": "7b94813d254e07e69c88be70064d81fc",
+    "logs": [
+      {
+        "time": "2022-02-24T00:26:39.386Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
